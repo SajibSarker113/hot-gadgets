@@ -1,0 +1,29 @@
+.container{
+    margin-bottom: 100px;
+}
+.img-bg{
+    background-image: url(images/img-bg.png);
+}
+.carousel-item{
+    padding: 20px 30px;
+}
+.buy-now-button{
+    background-color: black;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 15px;
+}
+.card-footer{
+    background-color: #fff;
+    border-top: none;
+}
+hr{
+    
+}
